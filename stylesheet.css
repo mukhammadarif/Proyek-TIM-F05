@@ -115,7 +115,7 @@ header {
 }
 .quote-wrapper {
   background-color: #ffc300;
-  height: 400px;
+  height: 450px;
 }
 
 .masukan-tulisan h4 {
@@ -146,6 +146,7 @@ header {
 textarea {
   boder: 2px solid #ddd;
   border-radius: 15px;
+  width: 40%;
 }
 input {
   boder: 1px solid #ddd;
