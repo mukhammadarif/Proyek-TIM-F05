@@ -1,0 +1,186 @@
+# Proyek-TIM-F05
+
+p {
+  font-family: tahoma;
+}
+
+li {
+  list-style: none;
+}
+
+header {
+  font-family: tahoma;
+  height: 80px;
+  width: 100%;
+  display: block;
+  background-color: #581845;
+  margin: 0 auto;
+}
+
+.logo-header {
+  font-family:tahoma;
+  color: #fff;
+  font-size: 30px;
+  float: left;
+  padding: 15px 30px;
+  margin: 7px;
+  border-radius: 10px;
+}
+
+.header-list li {
+  color: #fff;
+  float: left;
+  padding: 25px 20px 10px 20px;
+  font-size: 20px;
+}
+.container {
+  padding: 0 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.top-wrapper {
+  height: 600px;
+  background-size: cover;
+  background-image: url(https://cdn.pixabay.com/photo/2015/12/08/00/31/office-1081807_960_720.jpg);
+}
+.top-wrapper h1 {
+  margin: 0 auto;
+  padding-top: 200px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 40px;
+  font-style: italic;
+  font-family: tahoma;
+  color: #fff;
+  background-color: #000;
+  opacity: 0.8;
+
+}
+.top-wrapper h2 {
+  margin: 0 auto;
+  padding-bottom: 10px;
+  text-align: center;
+  color: #ffc300;
+  letter-spacing: 2px;
+  font-family: tahoma;
+  font-style: 20px;
+  background-color: #000;
+  opacity: 0.8;
+}
+.value-wrapper h2 {
+  text-align: center;
+  font-family: tahoma;
+  padding-top: 10px;
+  font-size: 40px;
+  color: #581845;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #ddd;
+
+}
+.content-value {
+  text-align: center;
+}
+.value {
+  font-family: tahoma;
+  width: 20%;
+  display: inline-block;
+  text-align: center;
+  margin-left: 30px;
+
+}
+.value h4 {
+  padding-bottom: 15px;
+  border-bottom: 2px solid #ddd;
+  border-width: thin;
+  letter-spacing: 1px;
+
+}
+
+.moto h3 {
+  text-align: center;
+  font-family: tahoma;
+  padding-top: 50px;
+  font-size: 40px;
+  color: #581845;
+  padding-bottom: 10px;
+
+}
+.moto p {
+  text-align: center;
+  font-size: 30px;
+  width: 75%;
+  margin: 0 auto;
+}
+.quote-wrapper {
+  background-color: #ffc300;
+  height: 300px;
+}
+
+.masukan-wrapper h4 {
+  text-align: Left;
+  font-family: tahoma;
+  padding-top: 20px;
+  font-size: 40px;
+  color: #581845;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  width: 50%;
+  line-height: 150%;
+  float: left;
+}
+.masukan-wrapper img {
+  width: 40px;
+  text-align: right;
+
+
+}
+.masukan-wrapper p {
+  font-family: tahoma;
+  padding-left: 30px;
+}
+
+textarea{
+  boder: 2px solid #ddd;
+  border-radius: 15px;
+}
+input {
+  boder: 1px solid #ddd;
+  border-radius: 5px;
+  margin-left: 30px;
+  height: 30px;
+}
+.contact-submit {
+  boder: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #dee7ec;
+  color: #889eab;
+  height: 40px;
+  padding: 8px;
+
+}
+footer {
+  font-family: tahoma;
+  height: 100px;
+  display: block;
+  background-color: #000;
+  margin-top: 30px;
+}
+
+.logo-footer {
+  font-family:tahoma;
+  color: #fff;
+  font-size: 30px;
+  float: left;
+  padding: 15px 30px;
+  margin: 7px;
+
+}
+
+.footer-list {
+  color: #fff;
+  text-align: right;
+  padding: 20px;
+  line-height: 150%;
+  font-size: 10px;
+}
