@@ -101,7 +101,7 @@ header {
 .moto h3 {
   text-align: center;
   font-family: tahoma;
-  padding-top: 30px;
+  padding-top: 50px;
   font-size: 40px;
   color: #581845;
   padding-bottom: 10px;
@@ -115,7 +115,7 @@ header {
 }
 .quote-wrapper {
   background-color: #ffc300;
-  height: 450px;
+  height: 300px;
 }
 
 .masukan-tulisan h4 {
@@ -143,10 +143,9 @@ header {
   display: block;
 }
 
-textarea {
+textarea{
   boder: 2px solid #ddd;
   border-radius: 15px;
-  width: 40%;
 }
 input {
   boder: 1px solid #ddd;
@@ -187,6 +186,22 @@ footer {
   padding: 20px;
   line-height: 150%;
   font-size: 10px;
+}
+
+.contact-submit {
+  padding: 15px 40px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+  border: none;
+  color: #000;
+}
+
+.contact-submit:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+  border: none;
 }
 @media (max-width: 1000px) {
   .content-value {
